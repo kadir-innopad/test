@@ -84,45 +84,6 @@ namespace APISqlite.Controllers
 
 
 
-        //private bool IsTokenValid()
-        //{
-        //    var request = HttpContext.Request;
-        //    var token = request.Headers["Authorization"];
-
-
-        //    var jwtToken = token.ToString().Substring(7);
-
-
-        //    var configuration = new ConfigurationBuilder()
-        //        .SetBasePath(Directory.GetCurrentDirectory())
-        //        .AddJsonFile("appsettings.json")
-        //        .Build();
-
-        //    var secretKey = configuration["JwtKey"];
-        //    var issuer = configuration["JwtIssuer"];
-        //    var audience = configuration["JwtAudience"];
-
-        //    var tokenHandler = new JwtSecurityTokenHandler();
-        //    var validationParameters = new TokenValidationParameters
-        //    {
-        //        ValidateIssuer = true,
-        //        ValidateAudience = true,
-        //        ValidateIssuerSigningKey = true,
-        //        ValidIssuer = issuer,
-        //        ValidAudience = audience,
-        //        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("Jwt: Key"))
-        //    };
-
-        //    try
-        //    {
-        //        tokenHandler.ValidateToken(jwtToken, validationParameters, out _);
-        //        return true;
-        //    }
-        //    catch (Exception)
-        //    {
-        //        return false;
-        //    }
-        //}
 
     }
 }
