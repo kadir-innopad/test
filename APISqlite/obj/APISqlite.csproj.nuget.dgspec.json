@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\APISqlite.csproj": {}
+    "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\APISqlite.csproj": {}
   },
   "projects": {
-    "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\APISqlite.csproj": {
+    "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\APISqlite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\APISqlite.csproj",
+        "projectUniqueName": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\APISqlite.csproj",
         "projectName": "APISqlite",
-        "projectPath": "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\APISqlite.csproj",
+        "projectPath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\APISqlite.csproj",
         "packagesPath": "C:\\Users\\Sanket\\.nuget\\packages\\",
-        "outputPath": "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\obj\\",
+        "outputPath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\PorductMvc.csproj": {
-                "projectPath": "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\PorductMvc.csproj"
+              "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\PorductMvc.csproj": {
+                "projectPath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\PorductMvc.csproj"
               }
             }
           }
@@ -118,14 +118,14 @@
         }
       }
     },
-    "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\PorductMvc.csproj": {
+    "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\PorductMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\PorductMvc.csproj",
+        "projectUniqueName": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\PorductMvc.csproj",
         "projectName": "PorductMvc",
-        "projectPath": "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\PorductMvc.csproj",
+        "projectPath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\PorductMvc.csproj",
         "packagesPath": "C:\\Users\\Sanket\\.nuget\\packages\\",
-        "outputPath": "E:\\Kadir Sheikh\\APISqlite\\PorductMvc\\obj\\",
+        "outputPath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\PorductMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

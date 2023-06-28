@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IIAO2g/K80wgj7z6pqXGQN8HaPwY1MZKo+172JBiGqO0YPU+5IxYJVzMX71DtG//6g/ixfvDtuFTyn5TfJshxw==",
+  "dgSpecHash": "nfAdBqILCOv6xpOMzFbN6Cjof287Mmhk+SExiAU8HHmy1qAwfRr2DYlECNsrlM/5lyKJ9bBkQdaA7GiIb/xT2Q==",
   "success": true,
-  "projectFilePath": "E:\\Kadir Sheikh\\APISqlite\\APISqlite\\APISqlite.csproj",
+  "projectFilePath": "E:\\Kadir Sheikh\\Git_Hub\\SqlLte_Poc\\APISqlite\\APISqlite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sanket\\.nuget\\packages\\entityframework\\6.0.0\\entityframework.6.0.0.nupkg.sha512",
     "C:\\Users\\Sanket\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
